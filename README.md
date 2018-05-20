@@ -1,11 +1,13 @@
-# react-redux-ts
+# Follow this link to see the App live:
 
-This is a simple task managment app
+https://abduhadi2122.github.io/Task-Managment-App-using-React-Redux-and-Typscript/
 
-## Start the application 
-You need to be at the root of the application folder and do : 
+
+## Starting the application locally 
+Please clone the master repo and run the following commands from the root directory. 
 
 `npm install && npm start`
+
 
 ## Logger 
 If you open a debugging console in the browser, you should see every action logged into the console.
